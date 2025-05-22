@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MIC2099_1YMTTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MIC2099-1YMTTR" (!) = "", "SON50P160X160X60-7N-D", "Small Outline No-lead", "", "", "", "", "Power Switch/Driver 1:1 P-Channel 1.1A 6-TMLF (1.6x1.6)", "https://ww1.microchip.com/downloads/en/DeviceDoc/mic2095.pdf", "0.6 mm"
+END_PART
+
+END.

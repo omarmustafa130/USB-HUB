@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MIC2099-1YMTTR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=1.1
+Released=2023-04-14 05:44:42
+Downloaded=2025-05-21 00:07:17
+3D=Y

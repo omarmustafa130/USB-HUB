@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MIC2099-1YMTTR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-04-14-05:44:42)
+    (mountForm default
+        (footprintRef "SON50P160X160X60-7N-D")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC2099-1YMTTR
+D Power Switch/Driver 1:1 P-Channel 1.1A 6-TMLF (1.6x1.6)
+K
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic2095.pdf
+$ENDCMP
+#
+#End Doc Library

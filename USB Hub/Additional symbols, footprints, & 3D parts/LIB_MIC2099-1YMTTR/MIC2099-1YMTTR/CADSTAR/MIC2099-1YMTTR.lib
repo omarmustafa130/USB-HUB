@@ -1,0 +1,18 @@
+.MIC2099-1YMTTR :1 ;Power Switch/Driver 1:1 P-Channel 1.1A 6-TMLF (1.6x1.6)
+SON50P160X160X60-7N-D
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="ILIMIT" 3="'FAULT'" 4="ENABLE" 5="GND" 6="VIN" 7="EP"
+*MXP 7
+*DFN MIC2099-1YMTTR
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MIC2099-1YMTTR)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://ww1.microchip.com/downloads/en/DeviceDoc/mic2095.pdf)
+~!Height (0.6mm)
+~!3D_Model (MIC2099-1YMTTR)
+MIC2099-1YMTTR
+1.1!U 2.1!U 3.1!U 7.1!U 6.1!U 5.1!U 4.1!U 
